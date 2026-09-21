@@ -6,6 +6,7 @@ A staged AI workflow application that creates personalized study packs.
 
 AI Workflow
 
+```
 Student Profile
       |
       v
@@ -30,7 +31,7 @@ Student Profile
       | revised content
       v
 Final Study Pack
-
+```
 If the assessment does not reach the quality threshold, the workflow can run
 up to two refinement rounds.
 

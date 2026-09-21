@@ -1,5 +1,7 @@
 AI Study Pack Generator
 
+https://ai-study-pack-generator-yqsypkmdkjuuz9kbrtlytz.streamlit.app/
+
 A staged AI workflow application that creates personalized study packs.
 
 AI Workflow
